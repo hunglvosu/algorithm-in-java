@@ -1,5 +1,5 @@
 
-package c324div1;
+package c334div1;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
