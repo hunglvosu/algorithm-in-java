@@ -1,5 +1,12 @@
 
+//============================================================================
+// Author      : Hung Le
+// Version     :
+// Description : Java Code for http://codeforces.com/contest/603/problem/A
+//============================================================================
+
 package c334div1;
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
@@ -9,7 +16,7 @@ public class C334D1AAltThi {
 	static String S;
 	static int[][] F;
 	
-	public static void main(String[] args){
+	public static void solve(String[] args){
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		try {
 			N = Integer.parseInt(br.readLine());
