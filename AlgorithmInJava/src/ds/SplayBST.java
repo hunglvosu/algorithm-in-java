@@ -156,7 +156,7 @@ public class SplayBST<Key extends Comparable<Key>, Value> {
 		return size;
 	}
 	
-	class Node{
+	private class Node{
 		private Key key;
 		private Value value;
 		public Node lcld, rcld;
