@@ -257,7 +257,7 @@ public class SplayBST<Key extends Comparable<Key>, Value> {
    
 
 	
-	public static void main(String[] args){
+	public static void test(String[] args){
 		PrintStream StdOut = System.out;
 		SplayBST<Integer, Integer> st1 = new SplayBST<Integer, Integer>();
 		st1.add(5, 5);
