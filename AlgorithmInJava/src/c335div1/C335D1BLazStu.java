@@ -16,7 +16,7 @@ public class C335D1BLazStu {
 	
 	static int N, M;
 	static KKVTriple[] E;
-	public static void main(String args[]){
+	public static void submitted(String args[]){
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		try {
 			String[] nm = br.readLine().split(" ");
